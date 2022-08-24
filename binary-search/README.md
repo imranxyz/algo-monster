@@ -1,4 +1,4 @@
-## Problems and Patterns on Binary Search
+## Problems and Patterns
 
 https://docs.google.com/document/d/1V6-bCyst7xYYiMl6mjrg802VjikoKbssvwLTuFw9G_Y/edit#
 
