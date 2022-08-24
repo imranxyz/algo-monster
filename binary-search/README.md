@@ -1,3 +1,11 @@
+![Language](https://img.shields.io/badge/Language-python-important)&nbsp;
+![Programs](https://img.shields.io/badge/Programs-2-blueviolet)&nbsp;
+![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
+[![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br><br>
+![Easy](https://img.shields.io/badge/Easy-2-success)&nbsp;
+![Medium](https://img.shields.io/badge/Medium-0-orange)&nbsp;
+![Hard](https://img.shields.io/badge/Hard-0-red)
+
 ## Problems and Patterns
 
 https://docs.google.com/document/d/1V6-bCyst7xYYiMl6mjrg802VjikoKbssvwLTuFw9G_Y/edit#
