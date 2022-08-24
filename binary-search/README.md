@@ -1,4 +1,4 @@
-![Language](https://img.shields.io/badge/Language-pytho_3.9.x-important)&nbsp;
+![Language](https://img.shields.io/badge/Language-python_3-important)&nbsp;
 ![Update](https://img.shields.io/badge/Last%20Update-August%2024,%202022-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br><br>
 ![Easy](https://img.shields.io/badge/Easy-2-success)&nbsp;
@@ -6,8 +6,6 @@
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ## Problems and Patterns
-
-https://docs.google.com/document/d/1V6-bCyst7xYYiMl6mjrg802VjikoKbssvwLTuFw9G_Y/edit#
 
 ### Type 1 - Some ad-hoc binary search problems
 
