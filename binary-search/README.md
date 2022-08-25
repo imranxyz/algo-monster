@@ -1,8 +1,8 @@
 ![Language](https://img.shields.io/badge/Language-python_3-important)&nbsp;
-![Update](https://img.shields.io/badge/Last%20Update-August%2024,%202022-brightgreen)&nbsp;
+![Update](https://img.shields.io/badge/Last%20Update-August%2025,%202022-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br><br>
 ![Easy](https://img.shields.io/badge/Easy-2-success)&nbsp;
-![Medium](https://img.shields.io/badge/Medium-0-orange)&nbsp;
+![Medium](https://img.shields.io/badge/Medium-1-orange)&nbsp;
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ## Problems and Patterns
