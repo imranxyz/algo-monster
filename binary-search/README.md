@@ -25,7 +25,7 @@ Implement `lower_bound` and `upper_bound` functions first
 
 - [ ] [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) `easy`
 - [ ] [Ceiling in a sorted array](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/) `easy`
-- [ ] [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) `medium`
+- [x] ~~[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)~~ `medium`
 - [ ] [275. H-Index II](https://leetcode.com/problems/h-index-ii/) `medium`
 
 ### Type 3 - Find the Pivot, then search `*****`
