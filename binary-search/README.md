@@ -2,7 +2,7 @@
 ![Update](https://img.shields.io/badge/Last%20Update-August%2025,%202022-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br><br>
 ![Easy](https://img.shields.io/badge/Easy-2-success)&nbsp;
-![Medium](https://img.shields.io/badge/Medium-1-orange)&nbsp;
+![Medium](https://img.shields.io/badge/Medium-2-orange)&nbsp;
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 
 ## Problems and Patterns
@@ -12,7 +12,7 @@
 - [x] ~~[704. Binary Search](https://leetcode.com/problems/binary-search/)~~ `easy`
 - [x] ~~[Order-Agnostic Binary Search](https://www.geeksforgeeks.org/order-agnostic-binary-search/)~~ `easy`
 - [x] ~~[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)~~ `easy`
-- [x] ~~[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)~~ `easy`
+- [x] ~~[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)~~ `medium`
 - [ ] [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) `easy`
 - [ ] [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) `medium` `*****`
 - [ ] [1099. Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) `easy`
