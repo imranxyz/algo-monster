@@ -3,25 +3,27 @@ def recursive_order_agnostic_search(sorted_array, start, end, target):
     if len(sorted_array) == 0:
         return -1
 
-    # checking is array is acending or decending
+    # check the array is in ascending or descending order
     is_ascending = sorted_array[start] < sorted_array[end]
 
-    if start <= end:
-        middle = start + (end - start) // 2
-        if sorted_array[middle] == target:
-            return middle
+    # exit condition
+    if start > end:
+        return -1
+
+    middle = start + (end - start) // 2
+    if sorted_array[middle] == target:
+        return middle
         
-        if is_ascending:
-            if target < sorted_array[middle]:
-                return recursive_order_agnostic_search(sorted_array, start, middle-1, target)
-            else:
-                return recursive_order_agnostic_search(sorted_array, middle+1, end, target)
+    if is_ascending:
+        if target < sorted_array[middle]:
+            return recursive_order_agnostic_search(sorted_array, start, middle-1, target)
         else:
-            if target > sorted_array[middle]:
-                return recursive_order_agnostic_search(sorted_array, start, middle-1, target)
-            else:
-                return recursive_order_agnostic_search(sorted_array, middle+1, end, target)
-    return -1
+            return recursive_order_agnostic_search(sorted_array, middle+1, end, target)
+    else:
+        if target > sorted_array[middle]:
+            return recursive_order_agnostic_search(sorted_array, start, middle-1, target)
+        else:
+            return recursive_order_agnostic_search(sorted_array, middle+1, end, target)
 
 
 array = [40, 10, 5, 2, 1]

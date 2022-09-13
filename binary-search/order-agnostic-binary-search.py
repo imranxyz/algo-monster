@@ -5,7 +5,7 @@ def order_agnostic_search(sorted_array, target):
     start = 0
     end = len(sorted_array) - 1
 
-    # check array is ascending order or decending
+    # check array is ascending order or descending
     is_ascending = sorted_array[start] < sorted_array[end]
 
     while start <= end:
@@ -14,13 +14,13 @@ def order_agnostic_search(sorted_array, target):
             return middle
         
         if is_ascending:
-            # if target is smaller than mid, ignore the right half
+            # if the target is smaller(<) than mid, ignore the right half
             if target < sorted_array[middle]:
                 end = middle - 1
             else:
                 start = middle + 1
         else:
-            # if target is greater than mid, ifnore the right half
+            # if the target is greater(>) than mid, ignore the right half
             if target > sorted_array[middle]:
                 end = middle - 1
             else:

@@ -6,19 +6,20 @@ def recursive_search(sorted_array, start, end, target):
     if len(sorted_array) == 0:
         return -1
     
-    # breaking into smaller
-    if start <= end:
-        mid = start + (end - start) // 2
-
-        if sorted_array[mid] == target:
-            return mid 
-        
-        if target > sorted_array[mid]:
-            return recursive_search(sorted_array, mid+1, end, target)
-        else:
-            return recursive_search(sorted_array, start, mid-1, target)
-    else:
+    # exit case
+    if start > end:
         return -1
+
+    # breaking into smaller parts
+    mid = start + (end - start) // 2
+
+    if sorted_array[mid] == target:
+        return mid 
+    
+    if target > sorted_array[mid]:
+        return recursive_search(sorted_array, mid+1, end, target)
+    else:
+        return recursive_search(sorted_array, start, mid-1, target)
 
 
 sorted_array = [10, 20, 30, 50, 60, 80, 110, 130, 140, 170]

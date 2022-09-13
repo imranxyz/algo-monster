@@ -16,7 +16,7 @@ def binary_search(sorted_array, target):
         else:
             start_index = mid_index + 1
     
-    # when target not in array
+    # when target not found in the array
     return -1
 
 
