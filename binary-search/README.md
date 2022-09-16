@@ -67,4 +67,4 @@ Doesn’t directly look like a binary search problem
 
 ## Unlisted Problems
 
-* [Count number of occurrences in a sorted array](https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/) `medium`
+* [x] ~~[Count number of occurrences in a sorted array](https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/)~~ `medium`
