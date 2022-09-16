@@ -11,7 +11,7 @@
 - [x] ~~[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)~~ `easy`
 - [x] ~~[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)~~ `medium`
 - [ ] [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) `easy`
-- [ ] [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) `medium` `*****`
+- [x] ~~[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)~~ `medium` `*****`
 - [x] ~~[1099. Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)~~ `easy`
 - [ ] [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) `hard`
 - [ ] [Count numbers with difference between number and its digit sum greater than specific value](https://www.geeksforgeeks.org/count-numbers-difference-number-digit-sum-greater-specific-value/) `google`
@@ -31,14 +31,14 @@ N.B - Whenever there is a rotated or a mountain array and we need to search in t
 
 - [ ] [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) `hard`
 - [ ] [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) `medium`
-- [ ] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) `medium`
-- [ ] [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) `medium`
+- [x] ~~[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)~~ `medium`
+- [x] ~~[153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)~~ `medium`
   - Also similar to finding the pivot point where the array was rotated
 
 ### Type 4 - Binary search on row wise sorted Matrix
 
 - [ ] [Find median in row wise sorted matrix](https://www.geeksforgeeks.org/find-median-row-wise-sorted-matrix/) `hard`
-- [ ] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) `medium`
+- [x] ~~[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)~~ `medium`
 
 ### Type 5 - Minimizing the Maximum or maximizing the minimum `*****`
 
