@@ -6,6 +6,6 @@
 
 <h2> DS & Algo Fundamenatls </h2>
 
-![Programmer](https://github.com/sadanandpai/dsa-interview-challenges/blob/main/programmer.svg)
+![Programmer](https://i.ibb.co/bb8pMyC/Cover-Page.jpg)
 
 </div>
