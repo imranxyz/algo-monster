@@ -32,6 +32,10 @@
 * After the `nth` pass, the `nth` largest element will be at `nth` last position in the array, where `n` is the size of the array.
 * This sorting algo can be used to check if an array is sorted or not efficiently in `O(N)` time
 
+```py
+....
+```
+
 ### Selection Sort
 
 * Time Complexity : Best & Worst & Average → `O(n*n)`
