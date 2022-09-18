@@ -5,14 +5,12 @@
 
 ## Study Materials
 
-* Classic Binary Search
-  * [x] ~~[Iterative Method](https://www.youtube.com/watch?v=C2apEw9pgtw)~~
-  * [x] ~~[Recursive Method](https://www.youtube.com/watch?v=uEUXGcc2VXM)~~
-* [x] ~~[Bisect Module](https://www.geeksforgeeks.org/bisect-algorithm-functions-in-python/)~~
-* [x] ~~[Bisect Module in Python](https://www.geeksforgeeks.org/bisect-algorithm-functions-in-python/)~~
-* [ ] [3 Smart Ways to Use Binary Search in Coding Interviews](https://medium.com/interviewnoodle/three-smart-ways-to-use-binary-search-in-coding-interviews-250ba296cb82)
-* [ ] [Powerful Ultimate Binary Search Template](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
-* [ ] [Binaey Search Playlist](https://www.youtube.com/playlist?list=PLR1BXeBj1husRtKzhu_WxyV7ZpS2mUnU5) `customized`
+- [x] ~~[Iterative Method](https://www.youtube.com/watch?v=C2apEw9pgtw)~~
+- [x] ~~[Recursive Method](https://www.youtube.com/watch?v=uEUXGcc2VXM)~~
+- [x] ~~[Bisect Module](https://www.geeksforgeeks.org/bisect-algorithm-functions-in-python/)~~
+- [ ] [3 Smart Ways to Use Binary Search in Coding Interviews](https://medium.com/interviewnoodle/three-smart-ways-to-use-binary-search-in-coding-interviews-250ba296cb82)
+- [ ] [Powerful Ultimate Binary Search Template](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
+- [ ] [Binaey Search Playlist](https://www.youtube.com/playlist?list=PLR1BXeBj1husRtKzhu_WxyV7ZpS2mUnU5) `customized`
 
 ## Problems and Patterns
 
