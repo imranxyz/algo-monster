@@ -1,3 +1,4 @@
+![Problems](https://img.shields.io/badge/Total_Problems-0-blueviolet)&nbsp;
 ![Easy](https://img.shields.io/badge/Easy-1-success)&nbsp;
 ![Medium](https://img.shields.io/badge/Medium-1-orange)&nbsp;
 ![Hard](https://img.shields.io/badge/Hard-0-red)
